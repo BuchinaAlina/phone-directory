@@ -1,6 +1,6 @@
 from logger import input_data, print_data
 
-def interfase()
+def interface():
     print("Добрый день! Добро пожаловать на специальный бот справочник! \n 1 - запись данных \n 2 -ввод данных")
     command = int(input('Введите число'))
 
